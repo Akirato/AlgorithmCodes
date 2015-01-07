@@ -1,0 +1,43 @@
+['a', 'ab', 'abb', 'abba', 'b', 'bb', 'bba', 'b', 'ba', 'a']
+i  0  j  1  ii  a  jj  ab
+i  0  j  2  ii  a  jj  abb
+i  0  j  3  ii  a  jj  abba
+i  0  j  4  ii  a  jj  b
+i  0  j  5  ii  a  jj  bb
+i  0  j  6  ii  a  jj  bba
+i  0  j  7  ii  a  jj  b
+i  0  j  8  ii  a  jj  ba
+i  1  j  2  ii  ab  jj  abb
+i  1  j  3  ii  ab  jj  abba
+i  1  j  4  ii  ab  jj  b
+i  1  j  5  ii  ab  jj  bb
+i  1  j  6  ii  ab  jj  bba
+i  1  j  7  ii  ab  jj  b
+i  1  j  8  ii  ab  jj  ba
+ab ba
+i  2  j  3  ii  abb  jj  abba
+i  2  j  4  ii  abb  jj  b
+i  2  j  5  ii  abb  jj  bb
+i  2  j  6  ii  abb  jj  bba
+abb bba
+i  2  j  7  ii  abb  jj  b
+i  2  j  8  ii  abb  jj  ba
+i  3  j  4  ii  abba  jj  b
+i  3  j  5  ii  abba  jj  bb
+i  3  j  6  ii  abba  jj  bba
+i  3  j  7  ii  abba  jj  b
+i  3  j  8  ii  abba  jj  ba
+i  4  j  5  ii  b  jj  bb
+i  4  j  6  ii  b  jj  bba
+i  4  j  7  ii  b  jj  b
+b b
+i  4  j  8  ii  b  jj  ba
+i  5  j  6  ii  bb  jj  bba
+i  5  j  7  ii  bb  jj  b
+i  5  j  8  ii  bb  jj  ba
+i  6  j  7  ii  bba  jj  b
+i  6  j  8  ii  bba  jj  ba
+i  7  j  8  ii  b  jj  ba
+3
+['3']
+0
